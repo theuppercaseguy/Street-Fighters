@@ -1,0 +1,38 @@
+﻿  Characters.cpp
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(430,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(437,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(444,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(451,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(454,48): warning C4552: '>': result of expression not used
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(458,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(467,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(477,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(487,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(494,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(501,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(508,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(517,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(527,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(543,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(550,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(560,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(567,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(593,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(600,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(607,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(617,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(626,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(636,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(646,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(653,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(663,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(672,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(682,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(698,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(705,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(715,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Characters.cpp(722,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Fighters.cpp
+C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\STREET FIGHTER\Fighters.cpp(267,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  STREET FIGHTER.vcxproj -> C:\Users\laurence\Desktop\github\CS 121 PROJ\STREET FIGHTER\x64\Debug\STREET FIGHTER.exe
