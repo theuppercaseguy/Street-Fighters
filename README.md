@@ -59,6 +59,11 @@ cd "STREET FIGHTER"
 - Sprite Animations.
 - Many more
 
+<p float="left">
+  <img src="/Mercy1.png" width="350" />
+  <img src="/Mercy2.png" width="350" /> 
+  <img src="/Mercy3.png" width="350" /> 
+</p>
 
 ## ERRORS AND ISSUES
 
